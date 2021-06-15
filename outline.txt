@@ -1,0 +1,113 @@
+https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng
+
+SHOTS
+- black (lights mostly off, but you can see the real world around the table
+  somewhat)
+- above table, see lehi and man in white, zooming in
+- from side of both, man in white points and signals to follow
+- above table, both "walking" but stay in place while scenery slides by
+- close up of lehi as light comes up with green background
+- over lehi's shoulder, pan up to see field, then tree, with white fruit
+- above tree, looking at lehi, as he walks towards tree
+- closeup of lehi's arm getting fruit
+- back to lehi, "eating" the fruit, happy
+- lehi looks around
+- from lehi's perspective, panning
+- pan to river alongside tree, to head of stream, to sariah, sam, nephi who
+  are turning to figure out where to go
+- from their view to Lehi, him waving
+- them walking to lehi
+- them at tree, taking fruit
+- looking at lehi, again looking around
+- from lehi's view, panning to laman and lemuel (back to same spot as sariah &
+  sons were)
+- laman and lemuel turning away and moving off
+- pan to iron rod alongside river
+- shot of iron rod ending near tree
+- back to iron rod at head of river, now panning the other way to a field
+- back to start of path, with a line of people getting to it
+- overhead shot of mists moving in, people going down wrong paths
+- back to start of path, with a person getting onto it
+- close up of person feeling around blindly, then touching the rod and then
+  clinging with both hands
+- at the tree, emerging from the mists and getting the fruit
+- drops fruit, "hunkers" down (somehow conveys shame)
+- slight pan to the right, then change focus to show a building on the other
+  side of the river, high in the air
+- closer view of building, gives impression of many people, with
+  shiny/glitering clothing, pointing/laughing back at people at the tree
+- back to view with people at tree but building in the background, focus back
+  on foreground people. they drop the fruit and start to move away
+- looking down at them from above, they shuffle off, away from the tree area
+- others coming off the path and getting the fruit
+- wide shot of paths, the river, and a tiny bit of the building. some working
+  their way towards the building, some go into the river and swept away, some
+  going down yet other paths away
+- shot of lehi with building in the background in focus first, then focus
+  shifts to lehi, who turns away from them and looks at the tree
+
+SETS
+- wasteland: mostly barren, a few rocks and other things, lehi, man in white,
+    some moveable scenery for the walking part
+- main: field, tree w/ fruit, stream whose head connects to river along one side many
+    paths from start to tree, maybe a bridge over the river or a tributary
+    stream that connects to the river. many paths, some go to the river, some
+    out of camera, some towards the building. the building off to the side and
+    high up. the one path with the iron rod. moveable mists of darkness.
+    crowds or many people. people with "rich" clothing.
+
+ACTORS & PROPS (scale: Lehi = 3" tall)
+- lehi, man in white, sariah, sam, nephi, laman, lemuel, various others
+    - man char, woman char. both be able to change clothing color
+    - expressions
+        - one arm pointing straight parallel to ground
+        - one arm raising or somehow indicating "follow"
+        - walking (could just be shuffling)
+        - lean back in surprise at the tree and/or facial expression
+        - arm extending for fruit, holding fruit
+        - arm putting fruit to mouth
+        - turning self to pan view
+        - arms waving
+        - feeling for and latching onto the iron rod
+        - walking with hand on rod
+        - ashamed, hunker down, shuffle
+        - pointing, mocking
+        - walking blindly (maybe arms outstretched?)
+        - drowning
+- 10 different rocks/shrubbery things for wasteland background, movement
+- wooden cutout hills or something for background
+- tree with white fruit
+- knoll or modest riser for tree to be on
+- closeup model of fruit, maybe half-eaten version
+- river with movement - something we can just keep on repeat (maybe pencils?
+  crayons? noodles?)
+- stream or tributary with something to act as the "start" of it
+- something for many different paths - hedge maze or walls or ... something.
+  playing cards?
+- iron rod with lots of connectable segments (tinkertoys?)
+- multitude/hoard of people
+- mists that can close in
+- great building
+- people with rich clothes
+
+=== PHASES / MAJOR TASKS ===
+- DONE - rough tech POC
+- DONE - 6/10 - define sets, props, character complexity/needs, establish art scale
+- DONE - 6/11 - ask Sis Bond if TV is ok
+- 6/11 - how to organize multiple objects in blend files - diff layers or
+  what?
+- 6/11 - very rough/dummy props + sets - ugly but to scale
+- 6/13 - create copy of archviz prj from scratch
+- 6/12-6/14 - pause to learn sequencer a bit more (shots, camera rigs,
+  animatio, BPs, tying animation to movement, recording user-controlled stuff,
+  camera focus depth, takes)
+- 6/15-6/17 - shot-by-shot rough take using dummy props
+- 6/18-6/20 - model & texture all props for reals
+- 6/21-6/24 - lay out all shots for reals
+- 6/24 - final rendering and export
+
+final aesthetic: wooden toys / blocks, painted wooden cutouts, household items
+"repurposed" to be in a homemade stop animation movie made on a dining room
+table
+
+https://www.youtube.com/watch?v=4OUYOKGl7x0
