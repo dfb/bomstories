@@ -94,17 +94,14 @@ ACTORS & PROPS (scale: Lehi = 3" tall)
 - DONE - rough tech POC
 - DONE - 6/10 - define sets, props, character complexity/needs, establish art scale
 - DONE - 6/11 - ask Sis Bond if TV is ok
-- 6/11 - how to organize multiple objects in blend files - diff layers or
-  what?
-- 6/11 - very rough/dummy props + sets - ugly but to scale
-- 6/13 - create copy of archviz prj from scratch
-- 6/12-6/14 - pause to learn sequencer a bit more (shots, camera rigs,
-  animatio, BPs, tying animation to movement, recording user-controlled stuff,
-  camera focus depth, takes)
-- 6/15-6/17 - shot-by-shot rough take using dummy props
-- 6/18-6/20 - model & texture all props for reals
-- 6/21-6/24 - lay out all shots for reals
-- 6/24 - final rendering and export
+- DONE - 6/11 - how to organize multiple objects in blend files - diff layers or what?
+- DONE - 6/12-6/14 - pause to learn sequencer a bit more (shots, camera rigs, animatio, BPs, tying animation to movement, recording user-controlled stuff, camera focus depth, takes)
+- 6/16 - make new copy of archviz prj
+- 6/16 - super-rough-but-scale props
+- 6/16-17 - set up all shots of correct durations
+- 6/18-19 - model & texture all props for reals
+- 6-20-23 - make each shot for reals
+- 6/24 - find render and export
 
 final aesthetic: wooden toys / blocks, painted wooden cutouts, household items
 "repurposed" to be in a homemade stop animation movie made on a dining room
