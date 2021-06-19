@@ -56,39 +56,18 @@ SETS
     high up. the one path with the iron rod. moveable mists of darkness.
     crowds or many people. people with "rich" clothing.
 
-ACTORS & PROPS (scale: Lehi = 3" tall)
-- lehi, man in white, sariah, sam, nephi, laman, lemuel, various others
-    - man char, woman char. both be able to change clothing color
-    - expressions
-        - one arm pointing straight parallel to ground
-        - one arm raising or somehow indicating "follow"
-        - walking (could just be shuffling)
-        - lean back in surprise at the tree and/or facial expression
-        - arm extending for fruit, holding fruit
-        - arm putting fruit to mouth
-        - turning self to pan view
-        - arms waving
-        - feeling for and latching onto the iron rod
-        - walking with hand on rod
-        - ashamed, hunker down, shuffle
-        - pointing, mocking
-        - walking blindly (maybe arms outstretched?)
-        - drowning
+ACTORS & PROPS (scale: Lehi = 3" tall, for each: M=final model done, T=final texturing done)
+MT - lehi, man in white, sariah, sam, nephi, laman, lemuel, various others
+MT - knoll or modest riser for tree to be on (use a book)
+MT - mists that can close in
+MT - pencils for river
+MT - playing cards
+MT - nails with "connector" / stand
+MT - tree with white fruit
+MT - great building
+
+next
 - 10 different rocks/shrubbery things for wasteland background, movement
-- wooden cutout hills or something for background
-- tree with white fruit
-- knoll or modest riser for tree to be on
-- closeup model of fruit, maybe half-eaten version
-- river with movement - something we can just keep on repeat (maybe pencils?
-  crayons? noodles?)
-- stream or tributary with something to act as the "start" of it
-- something for many different paths - hedge maze or walls or ... something.
-  playing cards?
-- iron rod with lots of connectable segments (tinkertoys?)
-- multitude/hoard of people
-- mists that can close in
-- great building
-- people with rich clothes
 
 === PHASES / MAJOR TASKS ===
 - DONE - rough tech POC
@@ -98,10 +77,12 @@ ACTORS & PROPS (scale: Lehi = 3" tall)
 - DONE - 6/12-6/14 - pause to learn sequencer a bit more (shots, camera rigs, animatio, BPs, tying animation to movement, recording user-controlled stuff, camera focus depth, takes)
 - DONE - 6/16 - super-rough-but-scale props
 - DONE - 6/16 - make new copy of archviz prj
-- 6/16-17 - set up all shots of correct durations
-- 6/18-19 - model & texture all props for reals
-- 6-20-23 - make each shot for reals
+- 6/17-18 - model/texture all props for reals
+- 6/19 - build final version of wasteland set
+- 6/20-6/21 - build final version of main set
+- 6/22-24 - create real shots
 - 6/24 - final render and export
+- 6/25 - the activity!
 
 final aesthetic: wooden toys / blocks, painted wooden cutouts, household items
 "repurposed" to be in a homemade stop animation movie made on a dining room
