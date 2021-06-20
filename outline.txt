@@ -65,9 +65,7 @@ MT - playing cards
 MT - nails with "connector" / stand
 MT - tree with white fruit
 MT - great building
-
-next
-- 10 different rocks/shrubbery things for wasteland background, movement
+MT - 10 different rocks/shrubbery things for wasteland background, movement
 
 === PHASES / MAJOR TASKS ===
 - DONE - rough tech POC
@@ -77,9 +75,9 @@ next
 - DONE - 6/12-6/14 - pause to learn sequencer a bit more (shots, camera rigs, animatio, BPs, tying animation to movement, recording user-controlled stuff, camera focus depth, takes)
 - DONE - 6/16 - super-rough-but-scale props
 - DONE - 6/16 - make new copy of archviz prj
-- 6/17-18 - model/texture all props for reals
-- 6/19 - build final version of wasteland set
-- 6/20-6/21 - build final version of main set
+- DONE - 6/17-18 - model/texture all props for reals
+- DONE - 6/19 - build final version of wasteland set
+- DONE - 6/20-6/21 - build final version of main set
 - 6/22-24 - create real shots
 - 6/24 - final render and export
 - 6/25 - the activity!

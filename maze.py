@@ -1,6 +1,6 @@
 from random import shuffle, randrange
  
-def make_maze(w = 16, h = 8):
+def make_maze(w = 8, h = 4):
     vis = [[0] * w + [1] for _ in range(h)] + [[1] * (w + 1)]
     ver = [["|  "] * w + ['|'] for _ in range(h)] + [[]]
     hor = [["+--"] * w + ['+'] for _ in range(h + 1)]

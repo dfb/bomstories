@@ -6,6 +6,7 @@
 00:16-00:26 3   And behold, because of the thing which I have seen, I have reason to rejoice in the Lord because of aNephi and also of Sam;
                 for I have reason to suppose that they, and also many of their seed, will be saved.
 00:26-00:34 4   But behold, aLaman and Lemuel, I fear exceedingly because of you; for behold, methought I saw in my dream, a dark and dreary wilderness.
+(((+4)))
 
 [above table, see lehi and man in white, zooming in]
 00:34-00:39 5   And it came to pass that I saw a aman, and he was dressed in a white brobe; and he came and stood before me.
@@ -17,6 +18,7 @@
 00:42-00:47 7   And it came to pass that as I followed him I beheld myself that I was in a dark and dreary waste.
 00:47-00:56 8   And after I had traveled for the space of many hours in darkness, I began to pray unto the Lord that he would have amercy on me,
                 according to the multitude of his tender mercies.
+(((+4)))
 
 --- end of wasteland set ---
 
@@ -46,6 +48,7 @@
 [from their view to Lehi, him waving]
 01:53-02:03 15  And it came to pass that I beckoned unto them; and I also did say unto them with a loud voice that they should come unto me, and
                 partake of the fruit, which was desirable above all other fruit.
+<<<<<<<<<<<<< 1:07
 
 [them walking to lehi]
 [them at tree, taking fruit]
@@ -66,6 +69,7 @@
 [back to iron rod at head of river, now panning the other way to a field]
 02:24-02:35 20  And I also beheld a astrait and narrow path, which came along by the rod of iron, even to the tree by which I stood; and it also led
                 by the head of the fountain, unto a large and spacious field, as if it had been a bworld.
+<<<<<<<<<<<<<<<< 1:44
 
 [back to start of path, with a line of people getting to it]
 02:35-02:43 21  And I saw numberless concourses of people, many of whom were apressing forward, that they might obtain the bpath which led unto the tree
@@ -81,6 +85,7 @@
 [at the tree, emerging from the mists and getting the fruit]
 02:56-03:09 24  And it came to pass that I beheld others pressing forward, and they came forth and caught hold of the end of the rod of iron; and they did
                 press forward through the mist of darkness, aclinging to the rod of iron, even until they did come forth and partake of the fruit of the tree.
+<<<<<<<<<<<<<<<<< 2:23
 
 [drops fruit, "hunkers" down (somehow conveys shame)]
 03:09-03:14 25  And after they had partaken of the fruit of the tree they did cast their eyes about as if they were aashamed.
@@ -98,6 +103,7 @@
 03:33-03:40 28  And after they had atasted of the fruit they were bashamed, because of those that were cscoffing at them; and they dfell away into
                 forbidden paths and were lost.
 03:40-03:42 29  And now I, Nephi, do not speak aall the words of my father.
+<<<<<<<<<<<<<<<<<<< 3:05
 
 [others coming off the path and getting the fruit]
 03:42-03:56 30  But, to be short in writing, behold, he saw other multitudes pressing forward; and they came and caught hold of the end of the arod of
@@ -110,6 +116,7 @@
 [shot of lehi with building in the background in focus first, then focus shifts to lehi, who turns away from them and looks at the tree]
 04:07-04:18 33  And great was the multitude that did enter into that strange building. And after they did enter into that building they did point the finger
                 of ascorn at me and those that were partaking of the fruit also; but we heeded them not.
+<<<<<<<<<<<<<< 3:49
 
 [fade to black]
 04:18-04:22 34  These are the words of my father: For as many as aheeded them, had fallen away.
@@ -122,3 +129,5 @@
 04:51-04:59 38  And after he had preached unto them, and also prophesied unto them of many things, he bade them to keep the commandments of the Lord; and
                 he did cease speaking unto them.
 
+
+<<<<<<<<<<<<<<< 4:36
