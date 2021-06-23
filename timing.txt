@@ -104,6 +104,10 @@ LehiGetsFruit: 70 sec total
 ---------------------------
 --- end of path and rod ---
 ---------------------------
+P3: (X=-326.225403,Y=-95.881340,Z=77.011330)
+0,0,-138
+P8: (X=-332.021942,Y=-87.582764,Z=77.011330)
+0,0,-168
 
 03:09-03:14 25  And after they had partaken of the fruit of the tree they did cast their eyes about as if they were aashamed.
 
@@ -116,8 +120,6 @@ LehiGetsFruit: 70 sec total
 03:33-03:40 28  And after they had atasted of the fruit they were bashamed, because of those that were cscoffing at them; and they dfell away into
                 forbidden paths and were lost.
 
-
-
 03:40-03:42 29  And now I, Nephi, do not speak aall the words of my father.
 
 03:42-03:56 30  But, to be short in writing, behold, he saw other multitudes pressing forward; and they came and caught hold of the end of the arod of
@@ -128,9 +130,12 @@ LehiGetsFruit: 70 sec total
 
 04:07-04:18 33  And great was the multitude that did enter into that strange building. And after they did enter into that building they did point the finger
                 of ascorn at me and those that were partaking of the fruit also; but we heeded them not.
-<<<<<<<<<<<<<< 3:49
-
 [fade to black]
+
+---------------------------------
+--- end of great and spacious ---
+---------------------------------
+
 04:18-04:22 34  These are the words of my father: For as many as aheeded them, had fallen away.
 04:22-04:25 35  And aLaman and Lemuel partook not of the fruit, said my father.
 04:25-04:40 36  And it came to pass after my father had spoken all the words of his dream or vision, which were many, he said unto us, because of these
