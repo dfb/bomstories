@@ -104,10 +104,6 @@ LehiGetsFruit: 70 sec total
 ---------------------------
 --- end of path and rod ---
 ---------------------------
-P3: (X=-326.225403,Y=-95.881340,Z=77.011330)
-0,0,-138
-P8: (X=-332.021942,Y=-87.582764,Z=77.011330)
-0,0,-168
 
 03:09-03:14 25  And after they had partaken of the fruit of the tree they did cast their eyes about as if they were aashamed.
 
